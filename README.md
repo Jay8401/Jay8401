@@ -1,6 +1,10 @@
-# 💫 About Me:
-I'm Full Stack developer and AI enthusiast from India. 
+<h1 align="center">Hi 👋, I'm Jaydev Zala</h1>
+<h3 align="center">A passionate Full Stack developer and AI enthusiast from India.</h3>
 
+## Discuss with me about
+- 💻 Startups 
+- 👨🏻‍💻 Developments
+- 💲 Finance
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydevzala/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JaydevZala9) 
