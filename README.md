@@ -4,6 +4,7 @@
 ## Discuss with me about
 - 💻 Startups 
 - 👨🏻‍💻 Developments
+- 🧠 Deep Learning 
 - 💲 Finance
 
 # 💻 Tech Stack:
